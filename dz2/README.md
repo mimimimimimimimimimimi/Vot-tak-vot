@@ -18,4 +18,5 @@
 ![Консоль](https://github.com/mimimimimimimimimimimi/Vot-tak-vot/raw/main/dz2/files_and_images/5.1.png)
 ![Консоль](https://github.com/mimimimimimimimimimimi/Vot-tak-vot/raw/main/dz2/files_and_images/5.2.png)
 ![Консоль](https://github.com/mimimimimimimimimimimi/Vot-tak-vot/raw/main/dz2/files_and_images/5.3.png)
-
+Файл compose.yml
+[Файл](https://github.com/mimimimimimimimimimimi/Vot-tak-vot/tree/main/dz2/files_and_images/compose.yml)
