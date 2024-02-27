@@ -13,7 +13,7 @@
 ## Задача 4
 ![Консоль](https://github.com/mimimimimimimimimimimi/Vot-tak-vot/raw/main/dz3/files/vm.png)
 
-[Файл](https://github.com/mimimimimimimimimimimi/Vot-tak-vot/tree/main/dz3/files/script.sh)
+[Сылка на скрипт](https://github.com/mimimimimimimimimimimi/Vot-tak-vot/tree/main/dz3/files/script.sh)
 
 Ссылка на Fork
 https://github.com/mimimimimimimimimimimi/shvirtd-example-python
