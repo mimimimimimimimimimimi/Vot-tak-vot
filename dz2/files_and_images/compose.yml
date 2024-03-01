@@ -1,4 +1,6 @@
 version: "3"
+include:
+  - docker-compose.yml
 services:
   portainer:
     image: portainer/portainer-ce:latest
@@ -7,9 +9,3 @@ services:
       - "9000:9000"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-
-  registry:
-    image: registry:2
-    network_mode: host
-    ports:
-    - "5000:5000"
